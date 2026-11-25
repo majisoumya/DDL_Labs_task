@@ -1,0 +1,101 @@
+customer_id,name,email,city,created_at
+1,Christopher Brown,christopher.brown1@example.com,New York,2023-10-19 16:00:00
+2,Linda Jones,linda.jones2@example.com,Seattle,2023-07-24 06:00:00
+3,Lisa Moore,lisa.moore3@example.com,Los Angeles,2024-01-03 10:00:00
+4,James Williams,james.williams4@example.com,Houston,2023-09-29 01:00:00
+5,Karen Smith,karen.smith5@example.com,Dallas,2023-09-11 07:00:00
+6,Christopher Thompson,christopher.thompson6@example.com,Dallas,2024-01-01 16:00:00
+7,Joseph Jackson,joseph.jackson7@example.com,Phoenix,2023-06-04 14:00:00
+8,Daniel Wilson,daniel.wilson8@example.com,Philadelphia,2023-10-21 13:00:00
+9,Michael Hernandez,michael.hernandez9@example.com,Los Angeles,2023-07-18 21:00:00
+10,Patricia Lopez,patricia.lopez10@example.com,Boston,2023-11-25 04:00:00
+11,William Johnson,william.johnson11@example.com,  Seattle  ,2024-01-23 02:00:00
+12,Patricia Gonzalez,patricia.gonzalez12@example.com,Los Angeles,2024-03-09 18:00:00
+13,Anthony Lee,anthony.lee13@example.com,Austin,2023-12-04 03:00:00
+14,Michael Thompson,michael.thompson14@example.com,Los Angeles,2023-06-25 06:00:00
+15,Linda Martinez,linda.martinez15@example.com,Los Angeles,2023-09-28 12:00:00
+16,Richard Rodriguez,richard.rodriguez16@example.com,San Diego,2023-12-04 14:00:00
+17,Barbara Lopez,barbara.lopez17@example.com,Houston,2023-10-16 07:00:00
+18,Sandra Perez,sandra.perez18@example.com,San Jose,2023-07-08 04:00:00
+19,Christopher Garcia,christopher.garcia19@example.com,Dallas,2023-10-04 14:00:00
+20,Joseph Gonzalez,joseph.gonzalez20@example.com,Phoenix,2024-03-12 16:00:00
+21,Nancy Hernandez,nancy.hernandez21@example.com,Boston,2023-06-29 16:00:00
+22,Anthony Johnson,anthony.johnson22@example.com,Denver,2023-11-09 21:00:00
+23,William Williams,william.williams23@example.com,Houston,2024-03-18 07:00:00
+24,David Miller,david.miller24@example.com,San Jose,2024-02-11 21:00:00
+25,Mark Lee,mark.lee25@example.com,San Diego,2023-08-13 17:00:00
+26,Robert Davis,robert.davis26@example.com,Seattle,2024-03-15 02:00:00
+27,William White,william.white27@example.com,Austin,2024-01-07 03:00:00
+28,Richard Lopez,richard.lopez28@example.com,Houston,2023-08-11 01:00:00
+29,Jessica Williams,jessica.williams29@example.com,Denver,2023-06-25 12:00:00
+30,Robert Lee,robert.lee30@example.com,Chicago,2024-01-04 04:00:00
+31,John Gonzalez,john.gonzalez31@example.com,San Antonio,2024-01-27 01:00:00
+32,William Moore,william.moore32@example.com,Boston,2023-06-07 06:00:00
+33,Lisa Brown,lisa.brown33@example.com,San Jose,2024-03-01 17:00:00
+34,Matthew Lee,matthew.lee34@example.com,Philadelphia,2023-07-28 18:00:00
+35,Susan Garcia,susan.garcia35@example.com,San Diego,2023-06-03 08:00:00
+36,Mark White,mark.white36@example.com,Phoenix,2024-02-12 14:00:00
+37,Thomas Brown,thomas.brown37@example.com,Boston,2023-11-01 05:00:00
+38,Thomas Martin,thomas.martin38@example.com,Houston,2023-08-18 20:00:00
+39,Matthew Garcia,matthew.garcia39@example.com,Dallas,2024-02-27 09:00:00
+40,Karen Hernandez,karen.hernandez40@example.com,San Diego,2023-06-10 12:00:00
+41,Sandra Lopez,sandra.lopez41@example.com,Atlanta,2023-11-05 16:00:00
+42,Mary Davis,mary.davis42@example.com,Atlanta,2024-03-17 11:00:00
+43,John White,john.white43@example.com,San Diego,2023-07-07 02:00:00
+44,Matthew Jones,matthew.jones44@example.com,Chicago,2024-01-31 02:00:00
+45,Jennifer Rodriguez,jennifer.rodriguez45@example.com,Dallas,2024-01-03 15:00:00
+46,Sandra Moore,sandra.moore46@example.com,Denver,2023-09-12 07:00:00
+47,Elizabeth Gonzalez,elizabeth.gonzalez47@example.com,San Jose,2023-12-09 23:00:00
+48,Mark Taylor,mark.taylor48@example.com,San Diego,2023-08-01 16:00:00
+49,Linda Williams,linda.williams49@example.com,Philadelphia,2023-06-12 03:00:00
+50,Sarah Davis,sarah.davis50@example.com,Austin,2023-09-21 09:00:00
+51,John Thompson,john.thompson51@example.com,San Jose,2023-07-01 16:00:00
+52,John Johnson,john.johnson52@example.com,Boston,2023-11-17 11:00:00
+53,Thomas Davis,thomas.davis53@example.com,Phoenix,2024-02-04 15:00:00
+54,Sarah Jones,sarah.jones54@example.com,Seattle,2024-03-20 03:00:00
+55,Jessica Davis,jessica.davis55@example.com,Denver,2024-01-29 22:00:00
+56,Michael Brown,michael.brown56@example.com,Los Angeles,2024-01-07 20:00:00
+57,Susan Wilson,susan.wilson57@example.com,San Diego,2023-06-29 06:00:00
+58,Christopher Lee,christopher.lee58@example.com,Los Angeles,2023-07-02 21:00:00
+59,Lisa Hernandez,lisa.hernandez59@example.com,Denver,2023-07-26 16:00:00
+60,Michael Miller,michael.miller60@example.com,Dallas,2024-01-16 13:00:00
+61,Susan Garcia,susan.garcia61@example.com,Phoenix,2024-01-23 16:00:00
+62,Margaret Williams,margaret.williams62@example.com,San Diego,2024-03-08 12:00:00
+63,Mary Lee,mary.lee63@example.com,Dallas,2023-06-08 11:00:00
+64,Sandra Davis,sandra.davis64@example.com,Chicago,2023-12-27 00:00:00
+65,Jessica Miller,jessica.miller65@example.com,Boston,2023-12-23 10:00:00
+66,Jennifer Gonzalez,jennifer.gonzalez66@example.com,New York,2023-12-17 17:00:00
+67,Sandra Anderson,sandra.anderson67@example.com,Phoenix,2024-01-04 07:00:00
+68,Lisa Moore,lisa.moore68@example.com,San Jose,2024-02-05 13:00:00
+69,Michael Martinez,michael.martinez69@example.com,Houston,2023-07-01 03:00:00
+70,Lisa Moore,lisa.moore70@example.com,New York,2023-11-08 10:00:00
+71,Mary Jackson,mary.jackson71@example.com,San Diego,2024-02-14 01:00:00
+72,Jennifer Johnson,jennifer.johnson72@example.com,Dallas,2023-07-12 14:00:00
+73,John Martin,john.martin73@example.com,Los Angeles,2023-09-29 21:00:00
+74,Patricia Jackson,patricia.jackson74@example.com,Houston,2024-03-24 04:00:00
+75,Mary Martin,mary.martin75@example.com,Los Angeles,2024-01-02 06:00:00
+76,Charles Jackson,charles.jackson76@example.com,Dallas,2023-11-09 17:00:00
+77,Michael Perez,michael.perez77@example.com,Seattle,2023-11-08 16:00:00
+78,William Gonzalez,william.gonzalez78@example.com,Chicago,2023-11-01 23:00:00
+79,David Williams,david.williams79@example.com,New York,2024-01-22 04:00:00
+80,Charles Brown,charles.brown80@example.com,Los Angeles,2024-03-02 15:00:00
+81,Thomas Rodriguez,thomas.rodriguez81@example.com,Chicago,2023-11-26 11:00:00
+82,Mark Davis,mark.davis82@example.com,Philadelphia,2023-10-24 14:00:00
+83,Joseph Moore,joseph.moore83@example.com,Seattle,2023-11-03 04:00:00
+84,Betty Lee,betty.lee84@example.com,Dallas,2023-06-06 06:00:00
+85,Anthony Moore,anthony.moore85@example.com,Phoenix,2023-07-24 13:00:00
+86,William Brown,william.brown86@example.com,Atlanta,2023-07-26 08:00:00
+87,Sarah Jones,sarah.jones87@example.com,Phoenix,2023-10-24 04:00:00
+88,Michael Thompson,michael.thompson88@example.com,Philadelphia,2023-09-14 06:00:00
+89,Christopher Rodriguez,christopher.rodriguez89@example.com,Dallas,2024-02-06 17:00:00
+90,Mark Johnson,mark.johnson90@example.com,Los Angeles,2024-01-03 17:00:00
+91,Mary Smith,mary.smith91@example.com,Philadelphia,2023-08-07 05:00:00
+92,William Garcia,william.garcia92@example.com,Seattle,2024-01-14 02:00:00
+93,Daniel Wilson,daniel.wilson93@example.com,Dallas,2023-06-05 12:00:00
+94,John Thompson,john.thompson94@example.com,Atlanta,2023-08-17 02:00:00
+95,Mary Lopez,mary.lopez95@example.com,Austin,2024-03-09 13:00:00
+96,Susan Jones,susan.jones96@example.com,New York,2023-11-05 20:00:00
+97,Mark Johnson,mark.johnson97@example.com,Atlanta,2023-12-01 15:00:00
+98,Nancy Davis,nancy.davis98@example.com,San Jose,2023-07-23 20:00:00
+99,Matthew Moore,matthew.moore99@example.com,Atlanta,2023-12-27 04:00:00
+100,Lisa Jones,lisa.jones100@example.com,Atlanta,2023-09-30 14:00:00
